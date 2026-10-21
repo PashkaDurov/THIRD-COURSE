@@ -4,6 +4,6 @@
 
 ## Дисциплины
 
-- [Теория баз данных и MS SQL](https://github.com/PashkaDurov/database-theory-ms-sql) — задания, выполненные работы и учебные материалы.
+- [Теория баз данных и MS SQL]([https://github.com/PashkaDurov/database-theory-ms-sql](https://github.com/PashkaDurov/Database-theory-)) — задания, выполненные работы и учебные материалы.
 
 Ссылка на дисциплину подготовлена для публикации репозитория `database-theory-ms-sql` в аккаунте `PashkaDurov`.
